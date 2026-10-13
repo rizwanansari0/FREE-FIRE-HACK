@@ -1,0 +1,2 @@
+-keep class com.shadowradar.pro.** { *; }
+-keepclassmembers class com.shadowradar.pro.** { *; }
